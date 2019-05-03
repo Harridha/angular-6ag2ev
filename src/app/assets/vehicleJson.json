@@ -1,0 +1,20 @@
+{
+  "vehicles": [{
+    "make" : "Honda",
+    "model": "Brio",
+    "color": "Cream",
+    "year" : 2003 
+  },
+  {
+    "make" : "Honda",
+    "model": "city",
+    "color": "white",
+    "year" : 2015 
+  },
+  {
+    "make" : "Honda",
+    "model": "amaze",
+    "color": "black",
+    "year" : 2018 
+  }]
+}
